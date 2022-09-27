@@ -416,7 +416,7 @@ border-bottom-right-radius: 30px;
         margin:0%;
     }
     body{
-    background-color: green;
+    background-color: white;
 }
 .header{
     background-color: aliceblue;
@@ -752,7 +752,7 @@ Footer{
     }
    body{ background-color: rgb(156, 156, 204);}
    .header{
-    background-color: aliceblue;
+    background-color: white;
     width: 20%;
     height: 250%;
     position: absolute;
@@ -1122,7 +1122,7 @@ Footer{
 
 /* larger tablets */
 @media (min-width: 48.0625rem) and (max-width:50.0625rem) {
-   body{ background-color: rgb(241, 192, 192);}
+   body{ background-color: white);}
    li{
     display: inline-block;
     list-style: none;
